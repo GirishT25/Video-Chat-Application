@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -53,3 +54,6 @@ cd frontend
 npm install
 npm run dev
 ```
+=======
+# Video-Chat-Application
+>>>>>>> a3fea5efa86ad7ca68a26095979211866d98329d
